@@ -1,0 +1,7 @@
+Todo things:
+    Model questions and implement the same
+        word2vec embedding - find out similar text to recognize similar questions on quora that could possibly contain a answer
+
+
+Useful concepts:
+    Attention scores - given a vector of words it gives scores for each word in entire corpus for which to focus on
