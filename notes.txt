@@ -7,7 +7,7 @@ Design Todo things:
         different embeddings + K-means
         different embeddings + cosine similarity
         word2vec + smooth inverse frequency + cosine similarity
-        
+        \\\
 
 
 Useful concepts:
