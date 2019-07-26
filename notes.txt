@@ -1,7 +1,18 @@
-Todo things:
+Design Todo things:
     Model questions and implement the same
         word2vec embedding - find out similar text to recognize similar questions on quora that could possibly contain a answer
+    Modeling similarity method
+        cosine similarity between word2vec
+        Jaccard similarity
+        different embeddings + K-means
+        different embeddings + cosine similarity
+        word2vec + smooth inverse frequency + cosine similarity
+        
 
 
 Useful concepts:
     Attention scores - given a vector of words it gives scores for each word in entire corpus for which to focus on
+
+
+Programming to do things:
+    - given a question extract links of list of similar questions from quora
